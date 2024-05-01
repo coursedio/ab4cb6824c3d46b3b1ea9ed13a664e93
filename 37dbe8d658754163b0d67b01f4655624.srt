@@ -1,0 +1,125 @@
+WEBVTT
+
+1
+00:00:00.007 --> 00:00:02.008
+- Many organizations are excited
+
+2
+00:00:02.008 --> 00:00:05.000
+about the ways artificial intelligence
+
+3
+00:00:05.000 --> 00:00:07.008
+can take their business to the next level.
+
+4
+00:00:07.008 --> 00:00:10.003
+But they might not have a very clear sense
+
+5
+00:00:10.003 --> 00:00:13.005
+of which AI tools will help them get there.
+
+6
+00:00:13.005 --> 00:00:16.002
+Well-designed AI systems can help you
+
+7
+00:00:16.002 --> 00:00:20.002
+better interact with your customers or identify new markets.
+
+8
+00:00:20.002 --> 00:00:22.005
+These systems can predict your inventory
+
+9
+00:00:22.005 --> 00:00:24.009
+and make real-time decisions.
+
+10
+00:00:24.009 --> 00:00:28.005
+There's a huge amount of potential with this technology,
+
+11
+00:00:28.005 --> 00:00:30.004
+but with so many possibilities,
+
+12
+00:00:30.004 --> 00:00:33.006
+it can be hard to see the best place to start.
+
+13
+00:00:33.006 --> 00:00:36.003
+Hi, I'm Doug Rose, and this course takes a look
+
+14
+00:00:36.003 --> 00:00:38.003
+at popular tools and concepts
+
+15
+00:00:38.003 --> 00:00:40.008
+in artificial intelligence systems.
+
+16
+00:00:40.008 --> 00:00:43.009
+We'll start by exploring some high-level concepts,
+
+17
+00:00:43.009 --> 00:00:47.003
+such as machine learning, artificial neural networks,
+
+18
+00:00:47.003 --> 00:00:50.008
+deep learning, and natural language processing.
+
+19
+00:00:50.008 --> 00:00:52.007
+Then we'll look at the tools you'll need
+
+20
+00:00:52.007 --> 00:00:54.004
+to build these systems.
+
+21
+00:00:54.004 --> 00:00:56.009
+Some of these might come from software vendors,
+
+22
+00:00:56.009 --> 00:00:59.003
+while others might be open source tools
+
+23
+00:00:59.003 --> 00:01:02.001
+that allow you to build your own systems.
+
+24
+00:01:02.001 --> 00:01:05.006
+Whether you're an executive, director, project manager,
+
+25
+00:01:05.006 --> 00:01:08.004
+product manager, or software developer,
+
+26
+00:01:08.004 --> 00:01:10.003
+this course will help you benefit
+
+27
+00:01:10.003 --> 00:01:12.005
+from this powerful technology.
+
+28
+00:01:12.005 --> 00:01:15.000
+Your first AI products might determine
+
+29
+00:01:15.000 --> 00:01:17.004
+the entire course of your business,
+
+30
+00:01:17.004 --> 00:01:19.007
+so let's start figuring out what you need to know
+
+31
+00:01:19.007 --> 00:01:24.007
+to build or buy the best AI systems for your organization.
