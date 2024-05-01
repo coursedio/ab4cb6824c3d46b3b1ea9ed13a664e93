@@ -1,0 +1,289 @@
+WEBVTT
+
+1
+00:00:00.006 --> 00:00:02.000
+- Natural language generation
+
+2
+00:00:02.000 --> 00:00:05.003
+is a sophisticated way for artificial intelligence
+
+3
+00:00:05.003 --> 00:00:09.003
+to generate very natural-sounding text.
+
+4
+00:00:09.003 --> 00:00:11.001
+Now, I have a little bit of a confession to make.
+
+5
+00:00:11.001 --> 00:00:13.007
+I actually didn't write that first sentence.
+
+6
+00:00:13.007 --> 00:00:15.006
+It was written for me with the help
+
+7
+00:00:15.006 --> 00:00:20.008
+of a natural language generation, or NLG, application.
+
+8
+00:00:20.008 --> 00:00:23.000
+And while these applications can produce text
+
+9
+00:00:23.000 --> 00:00:25.002
+similar to what a human might write,
+
+10
+00:00:25.002 --> 00:00:30.000
+the process of writing is very different for an AI system.
+
+11
+00:00:30.000 --> 00:00:31.009
+The system doesn't write in the same way
+
+12
+00:00:31.009 --> 00:00:35.000
+that you might've learned in a Creative Writing course.
+
+13
+00:00:35.000 --> 00:00:38.004
+The computer sees writing as a data challenge,
+
+14
+00:00:38.004 --> 00:00:41.003
+and not a creative process.
+
+15
+00:00:41.003 --> 00:00:44.006
+An AI system looks for patterns in the data.
+
+16
+00:00:44.006 --> 00:00:48.004
+So in this case, the system finds the most common phrases
+
+17
+00:00:48.004 --> 00:00:50.004
+that match up to keywords.
+
+18
+00:00:50.004 --> 00:00:51.007
+For this sentence,
+
+19
+00:00:51.007 --> 00:00:54.008
+the AI system looked through millions of webpages
+
+20
+00:00:54.008 --> 00:00:58.006
+and matched words "natural language generation".
+
+21
+00:00:58.006 --> 00:01:00.002
+You can almost think of NLG
+
+22
+00:01:00.002 --> 00:01:02.006
+as a super-powered search engine.
+
+23
+00:01:02.006 --> 00:01:05.002
+The AI system searched for a phrase,
+
+24
+00:01:05.002 --> 00:01:08.000
+and then it searched deeper within those results.
+
+25
+00:01:08.000 --> 00:01:10.000
+Then it takes all that information
+
+26
+00:01:10.000 --> 00:01:14.001
+and reassembles it to closely match the text patterns
+
+27
+00:01:14.001 --> 00:01:16.009
+it came up with in the search results.
+
+28
+00:01:16.009 --> 00:01:19.000
+Afterwards, it goes through to make sure
+
+29
+00:01:19.000 --> 00:01:22.009
+that it's not an exact copy of the text and the results.
+
+30
+00:01:22.009 --> 00:01:25.008
+Now, the system just generated this one sentence,
+
+31
+00:01:25.008 --> 00:01:28.000
+but most people use this technology
+
+32
+00:01:28.000 --> 00:01:31.006
+to generate paragraphs, and even articles.
+
+33
+00:01:31.006 --> 00:01:35.002
+Right now, NLG works best for product reviews,
+
+34
+00:01:35.002 --> 00:01:38.007
+weather forecasts, and even news stories.
+
+35
+00:01:38.007 --> 00:01:41.009
+Natural language generation does especially well
+
+36
+00:01:41.009 --> 00:01:45.004
+when you have to combine data from different sources
+
+37
+00:01:45.004 --> 00:01:48.005
+and then present it to a wider audience.
+
+38
+00:01:48.005 --> 00:01:51.002
+The Associated Press uses NLG
+
+39
+00:01:51.002 --> 00:01:55.001
+to publish articles about a company's quarterly earnings.
+
+40
+00:01:55.001 --> 00:01:56.005
+These are short summaries
+
+41
+00:01:56.005 --> 00:01:58.005
+that come out about four times a year
+
+42
+00:01:58.005 --> 00:02:00.007
+to report how companies are performing
+
+43
+00:02:00.007 --> 00:02:02.007
+with their share price.
+
+44
+00:02:02.007 --> 00:02:04.009
+NLG works well here because you have data
+
+45
+00:02:04.009 --> 00:02:06.008
+from several different sources.
+
+46
+00:02:06.008 --> 00:02:10.001
+The NLG system combines these data sources
+
+47
+00:02:10.001 --> 00:02:13.000
+and adds some text to write a story.
+
+48
+00:02:13.000 --> 00:02:15.003
+That means that you'll get a quarterly earnings report
+
+49
+00:02:15.003 --> 00:02:18.002
+that sounds a lot like this.
+
+50
+00:02:18.002 --> 00:02:21.004
+"Microsoft had its third-quarter earnings report today,
+
+51
+00:02:21.004 --> 00:02:25.006
+and its stock price went up 5% in after-hours trading.
+
+52
+00:02:25.006 --> 00:02:28.004
+That's up 1% from last quarter,
+
+53
+00:02:28.004 --> 00:02:31.004
+and met forecasters' expectations.
+
+54
+00:02:31.004 --> 00:02:33.008
+The company said it was not affected
+
+55
+00:02:33.008 --> 00:02:37.005
+by supply chain issues with China."
+
+56
+00:02:37.005 --> 00:02:39.008
+So here you're combining the share price,
+
+57
+00:02:39.008 --> 00:02:41.005
+the expected share price,
+
+58
+00:02:41.005 --> 00:02:45.000
+and then how the shares were priced last quarter.
+
+59
+00:02:45.000 --> 00:02:47.008
+Then you'd combine that with relevant news.
+
+60
+00:02:47.008 --> 00:02:49.006
+Finally, you glue it together
+
+61
+00:02:49.006 --> 00:02:52.008
+with some appropriate words and transitions.
+
+62
+00:02:52.008 --> 00:02:55.007
+You've probably read several short stories written this way,
+
+63
+00:02:55.007 --> 00:02:58.001
+and not even realized that it was generated
+
+64
+00:02:58.001 --> 00:03:01.006
+in milliseconds by an AI system.
+
+65
+00:03:01.006 --> 00:03:03.004
+If you're thinking about using this technology
+
+66
+00:03:03.004 --> 00:03:05.000
+for your organization,
+
+67
+00:03:05.000 --> 00:03:07.000
+a good first step is to consider
+
+68
+00:03:07.000 --> 00:03:10.008
+the different data sources that you'd like to combine.
+
+69
+00:03:10.008 --> 00:03:13.008
+Maybe you'll create automated executive briefings,
+
+70
+00:03:13.008 --> 00:03:16.004
+or even short news stories.
+
+71
+00:03:16.004 --> 00:03:18.009
+Or as you'll see later, you can even use it
+
+72
+00:03:18.009 --> 00:03:21.006
+to better communicate with your customer.
